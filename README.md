@@ -1,4 +1,3 @@
 # Pump Up Github Org
 
-
-### Coming soon...
+- see `profile` dir for special config files.
