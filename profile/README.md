@@ -4,8 +4,6 @@ More coming soon...
 
 Main site - https://pumpup.ccom
 
-Find us on the Apple App Store / Google Play Store
-
 <!--
 
 **Here are some ideas to get you started:**
